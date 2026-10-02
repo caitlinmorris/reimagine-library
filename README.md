@@ -1,5 +1,7 @@
 # reimagine-library
 
+![Library flyer handout](library-flyer.png)
+
 Files from a workshop series around using small language models as a community "library".
 
 Most encounters with AI are encounters with a monolith: a sealed system trained on an anonymous mass, where language arrives smoothed of its speakers. Knowledge without a specific knower. This guide to community-oriented small language models comes from a series of workshops, where we asked what the opposite would look like: what it would mean for a community to own its own memory?
